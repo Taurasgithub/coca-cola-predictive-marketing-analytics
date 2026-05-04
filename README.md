@@ -4,7 +4,6 @@ AI-powered predictive marketing analytics for Coca-Cola: Sales forecasting with 
 # 🥤 Coca-Cola Predictive Marketing Analytics
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression%20%7C%20ARIMA-red.svg)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
 
